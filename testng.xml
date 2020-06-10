@@ -1,0 +1,11 @@
+<suite name="Regression TestSuite">
+<test name="Application Test">
+	<classes>
+			<class name="testCases.TestCases"></class>
+			<class name="testCases.TestCasesLogin"></class>
+			<class name="testCases.TestcaseQuotation"></class>
+			<class name="testCases.TestcasePricing"></class>
+			<class name="testCases.TestcaseChangepass"></class>
+	</classes>
+</test>
+</suite>
